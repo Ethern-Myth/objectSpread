@@ -21,13 +21,13 @@ To include `ObjectSpread` in your project, you can add the source files directly
 To install via NuGet, run the following command in the NuGet Package Manager Console:
 
 ```bash
-Install-Package ObjectSpread
+Install-Package objectSpread
 ```
 
 Or via .NET CLI:
 
 ```bash
-dotnet add package efetch
+dotnet add package objectSpread
 ```
 
 ### Direct Download
